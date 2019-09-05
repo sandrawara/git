@@ -1,7 +1,7 @@
 # Git och Github
 ## Uppgiften
 
-1. Böjade med att skapa index.html fil för att testa.
+1. Började med att skapa index.html fil för att testa.
 2. Skapade användarnamn och en e-postadress.
 3. Gjorde en git add index.html.
 4. Kollade git satus för att se om dessa hamnat i commit.
