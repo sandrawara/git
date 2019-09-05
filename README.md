@@ -1,5 +1,5 @@
-# H1 Git och Github
-## H2 Uppgiften
+# Git och Github
+## Uppgiften
 
 1. Böjade med att skapa index.html fil för att testa.
 2. Skapade användarnamn och en e-postadress.
